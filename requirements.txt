@@ -4,3 +4,8 @@ anthropic==0.25.9
 langchain_community
 python-dotenv
 langchain
+tiktoken
+chromadb
+google-search-results
+python-magic
+unstructured
